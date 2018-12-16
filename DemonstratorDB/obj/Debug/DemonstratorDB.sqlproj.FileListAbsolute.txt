@@ -1,0 +1,6 @@
+C:\Users\Gentleshark\source\repos\DemonstratorDB\DemonstratorDB\bin\Debug\DemonstratorDB.dacpac
+C:\Users\Gentleshark\source\repos\DemonstratorDB\DemonstratorDB\obj\Debug\DemonstratorDB.sqlprojAssemblyReference.cache
+C:\Users\Gentleshark\source\repos\DemonstratorDB\DemonstratorDB\obj\Debug\Database1.dll
+C:\Users\Gentleshark\source\repos\DemonstratorDB\DemonstratorDB\obj\Debug\Database1.pdb
+C:\Users\Gentleshark\source\repos\DemonstratorDB\DemonstratorDB\bin\Debug\Database1.dll
+C:\Users\Gentleshark\source\repos\DemonstratorDB\DemonstratorDB\bin\Debug\Database1.pdb
